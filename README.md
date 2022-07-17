@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React,Firebase**
 
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
+- 👨‍💻 All of my projects are available at **Coming soon**
 
 - 💬 Ask me about **All you want 😁​**
 
