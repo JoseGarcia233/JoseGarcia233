@@ -29,8 +29,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=viguera27&cover_image=true&theme=default&bar_color=a11212&bar_color_cover=true" /></div>  
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=viguera27&cover_image=true&theme=default" /></div>  
 <br/>
 
 
