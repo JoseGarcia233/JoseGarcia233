@@ -5,6 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=josegarcia233&label=Profile%20views&color=0e75b6&style=flat" alt="josegarcia233" /> </p>
 
+<h5 align="center">🏆GitHub trophies </h5>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josegarcia233&theme=discord" alt="josegarcia233" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif">  
