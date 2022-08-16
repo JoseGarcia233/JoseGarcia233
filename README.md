@@ -3,7 +3,7 @@
 <h1 align="center">Hi 🤘​, Im Jose García</h1>
 <h3 align="center">Every day learning new things about technology ​​💻​</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=josegarcia233&label=Profile%20views&color=0e75b6&style=flat" alt="josegarcia233" /> </p>
+<p align="center">https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josegarcia233" alt="josegarcia233" /></a> </p>
 
