@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif">  
 - 🔭 I’m currently working on **Briefcase**
 
-- 🌱 I’m currently learning ** Flutter **
+- 🌱 I’m currently learning ** Next **
 
 - 👨‍💻 All of my projects are available at **Coming soon**
 
