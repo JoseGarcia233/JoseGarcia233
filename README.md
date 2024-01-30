@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josegarcia233&theme=discord" alt="josegarcia233" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif">  
-- 🔭 I’m currently working on **Briefcase**
+- 🔭 I’m currently working on **Poke Legacy **
 
 - 🌱 I’m currently learning ** Next **
 
